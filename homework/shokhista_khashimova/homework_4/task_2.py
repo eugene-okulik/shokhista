@@ -1,4 +1,4 @@
-my_dict = {'tuple': (1, "q", "A", "z", "word"), 'list': ["first", "second", "third", "cat", "dog"], 
+my_dict = {'tuple': (1, "q", "A", "z", "word"), 'list': ["first", "second", "third", "cat", "dog"],
 'dict': {'car1': 'volvo', 'car2': 'bmw'}, 'set': {"white", "black", "yellow", 2, 6.8}}
 
 
