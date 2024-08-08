@@ -10,7 +10,7 @@
 
 
 my_dict = {'tuple': (1, "q", "A", "z", "word"), 'list': ["first", "second", "third", "cat", "dog"],
-            'dict': {'car1': 'volvo', 'car2': 'bmw'}, 'set': {"white", "black", "yellow", 2, 6.8}}
+     'dict': {'car1': 'volvo', 'car2': 'bmw'}, 'set': {"white", "black", "yellow", 2, 6.8}}
 
 # Для того, что хранится под ключом ‘tuple’ выведите на экран последний элемент
 print(my_dict['tuple'][-1])
