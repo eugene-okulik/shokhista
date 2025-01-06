@@ -8,6 +8,6 @@
 result_1 = 'результат операции: 42'
 result_2 = 'результат операции: 514'
 result_3 = 'результат работы программы: 9'
-print(result_1.index('42')+10)
-print(result_2.index('514')+10)
-print(result_3.index('9')+10)
+print(result_1.index('42') + 10)
+print(result_2.index('514') + 10)
+print(result_3.index('9') + 10)
