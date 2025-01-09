@@ -8,9 +8,9 @@
 result_1 = 'результат операции: 42'
 result_2 = 'результат операции: 514'
 result_3 = 'результат работы программы: 9'
-num_1 = result_1.index('4')
-num_2 = result_2.index('5')
-num_3 = result_3.index('9')
+num_1 = result_1.index(':')
+num_2 = result_2.index(':')
+num_3 = result_3.index(':')
 print(num_1 + 10)
 print(num_2 + 10)
 print(num_3 + 10)
